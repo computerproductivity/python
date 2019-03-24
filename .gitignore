@@ -9,6 +9,7 @@ extra/
 # Sphinx documentation
 doc/_build/
 .ipynb_checkpoints/
+spectra_analysis/
 
 Icon?
 *.prf

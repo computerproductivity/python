@@ -21,3 +21,10 @@ make clean
 ```
 make run
 ```
+
+
+# References:
+
+- Pytest notebook and pythonic code based on [Materials for the Paris-Saclay Center for Data Science python workshop](https://github.com/paris-saclay-cds/python-workshop)
+- The other notebooks are from [Robert Johansson: Lectures on scientific computing with python, as IPython notebooks](https://github.com/jrjohansson/scientific-python-lectures)
+
